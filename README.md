@@ -4,9 +4,9 @@ Jawab Pertanyaan Berikut
 error ketika terjadi kesalahan penulisan tag?
 =Tidak
 
-2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
-   =<p>: digunakan untuk membuat paragraf baru. Secara default ada jarak (margin) atas dan bawah.
-    <br>: digunakan untuk break line (pindah ke baris baru) tanpa membuat paragraf baru. Tidak ada jarak tambahan seperti pada <p>
+2. Apa perbedaan dari tag "<p>" dengan tag "<br>", berikan penjelasannya!
+   ="<p>": digunakan untuk membuat paragraf baru. Secara default ada jarak (margin) atas dan bawah.
+    "<br>": digunakan untuk break line (pindah ke baris baru) tanpa membuat paragraf baru. Tidak ada jarak tambahan seperti pada <p>
      
 3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
    =alt: digunakan untuk menampilkan teks alternatif ketika gambar tidak bisa ditampilkan. Juga penting untuk aksesibilitas (screen reader).
