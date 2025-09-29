@@ -18,7 +18,6 @@ adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.<
 mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan
 tag dasar html.</p>
 ```
-```
 ![1](Screenshots/.png)
 
 3. Membuat Judul
