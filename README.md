@@ -9,7 +9,7 @@ PENJELASAN PRAKTIKUM
 1. Membuat Paragraf
    Paragraf pada HTML dibuat menggunakan tag `<p>`. Tag ini berfungsi untuk membungkus teks agar ditampilkan sebagai sebuah paragraf yang utuh, dengan jarak otomatis antar paragraf sehingga isi tulisan lebih rapi dan mudah dibaca.
    
-   ```html
+   ```lab1_tag_dasar.html
 <p align="center">Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>Pemrograman
 Web</b> di Prodi <i>Teknik Informatika</i> <ins>Universitas Pelita Bangsa</ins>. Pelajaran pertama
 yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
