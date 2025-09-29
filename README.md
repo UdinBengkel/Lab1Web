@@ -20,18 +20,18 @@ tag dasar html.</p>
 ```
 ![1](Screenshots/.png)
 
-3. Membuat Judul
+2. Membuat Judul
    Judul pada HTML dibuat menggunakan tag heading `<h1>` sampai `<h6>`, di mana `<h1>` adalah yang paling besar dan penting. Tag ini berfungsi untuk memberi struktur hierarki pada halaman web, sehingga teks lebih terorganisir dan mudah dibaca.
-4. Memformat Teks
+3. Memformat Teks
    HTML menyediakan berbagai tag untuk memformat teks, misalnya `<b>` atau `<strong>` untuk menebalkan huruf, `<i>` atau `<em>` untuk memiringkan huruf, `<ins>` untuk garis bawah, dan '<mark>' untuk menyorot teks dengan highlight. Dengan tag-tag ini, teks pada halaman web bisa lebih jelas, menonjol, dan mudah dipahami sesuai konteks.
    
    - "Pemrograman Web" dengan tag `<b>`
    - "Teknik Informatika" dengan tag `<i>`
    - "HTML dasar" dengan tag `<mark>`
    - "Universitas Pelita Bangsa" dengan tag `<ins>`
-5. Menyisipkan Gambar
+4. Menyisipkan Gambar
    Untuk nampilin gambar di halaman web, kita pakai tag `<img>`. Tag ini tidak perlu ditutup (self-closing). Yang paling penting ada atribut src, buat nunjukin lokasi file gambarnya, sama alt, buat teks pengganti kalau gambarnya nggak kebuka. Kalau mau, bisa juga ditambahin width sama height biar ukurannya pas.
-6. Membuat Hyperlink
+5. Membuat Hyperlink
    Hyperlink di HTML dipakai buat ngarahin pengguna ke halaman lain atau ke bagian tertentu dalam sebuah halaman. Tag yang dipakai adalah `<a>`, biasanya disertai atribut href buat menentukan alamat tujuan. Dengan hyperlink, halaman web bisa saling terhubung sehingga pengguna lebih mudah berpindah dari satu informasi ke informasi lain.
 
 
