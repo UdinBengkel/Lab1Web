@@ -18,7 +18,7 @@ adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.<
 mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan
 tag dasar html.</p>
 ```
-![1](Screenshots/.png)
+<img src="gambar/1.png" width="500"/>
 
 2. Membuat Judul
    Judul pada HTML dibuat menggunakan tag heading `<h1>` sampai `<h6>`, di mana `<h1>` adalah yang paling besar dan penting. Tag ini berfungsi untuk memberi struktur hierarki pada halaman web, sehingga teks lebih terorganisir dan mudah dibaca.
