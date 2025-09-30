@@ -138,7 +138,7 @@ PENJELASAN PRAKTIKUM
 2. Membuat Judul
    Judul pada HTML dibuat menggunakan tag heading `<h1>` sampai `<h6>`, di mana `<h1>` adalah yang paling besar dan penting. Tag ini berfungsi untuk memberi struktur hierarki pada halaman web, sehingga teks lebih terorganisir dan mudah dibaca.
 3. Memformat Teks
-   HTML menyediakan berbagai tag untuk memformat teks, misalnya `<b>` atau `<strong>` untuk menebalkan huruf, `<i>` atau `<em>` untuk memiringkan huruf, `<ins>` untuk garis bawah, dan '<mark>' untuk menyorot teks dengan highlight. Dengan tag-tag ini, teks pada halaman web bisa lebih jelas, menonjol, dan mudah dipahami sesuai konteks.
+   HTML menyediakan berbagai tag untuk memformat teks, misalnya `<b>` atau `<strong>` untuk menebalkan huruf, `<i>` atau `<em>` untuk memiringkan huruf, `<ins>` untuk garis bawah, dan `<mark>` untuk menyorot teks dengan highlight. Dengan tag-tag ini, teks pada halaman web bisa lebih jelas, menonjol, dan mudah dipahami sesuai konteks.
    
    - "Pemrograman Web" dengan tag `<b>`
    - "Teknik Informatika" dengan tag `<i>`
