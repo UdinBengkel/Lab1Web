@@ -9,7 +9,7 @@ PENJELASAN PRAKTIKUM
 1. Membuat Paragraf
    Paragraf pada HTML dibuat menggunakan tag `<p>`. Tag ini berfungsi untuk membungkus teks agar ditampilkan sebagai sebuah paragraf yang utuh, dengan jarak otomatis antar paragraf sehingga isi tulisan lebih rapi dan mudah dibaca.
    
-```lab1_tag_dasar.html
+```html
 <p>Kami sedang belajar HTML dasar pada matakuliah Pemrograman Web di Prodi
 Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat
 adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>
@@ -20,18 +20,50 @@ tag dasar html.</p>
 ```
 <img src="gambar/1.png" width="500"/>
 
+   lalu kita merubah posisi paragraf
+
+```html
+<p align="center"> Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>Pemrograman
+Web</b> di Prodi <i>Teknik Informatika</i> <ins>Universitas Pelita Bangsa</ins>. Pelajaran pertama
+yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
+tag-tag dasar HTML.</p>
+
+<p align="left">Ini merupakan sebuah paragraf yang terdiri dari beberapa 
+kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat
+dengan menggunakan tag dasar html.</p>
+```
+
+<img src="gambar/2.png" width="500"/>
+
 2. Membuat Judul
    Judul pada HTML dibuat menggunakan tag heading `<h1>` sampai `<h6>`, di mana `<h1>` adalah yang paling besar dan penting. Tag ini berfungsi untuk memberi struktur hierarki pada halaman web, sehingga teks lebih terorganisir dan mudah dibaca.
-3. Memformat Teks
+
+```html
+<h1>Belajar Dasar HTML</h1>
+
+<p align="center"> Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>Pemrograman
+Web</b> di Prodi <i>Teknik Informatika</i> <ins>Universitas Pelita Bangsa</ins>. Pelajaran pertama
+yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
+tag-tag dasar HTML.</p>
+
+<h2>Paragraf pada HTML</h2>
+
+<p align="left">Ini merupakan sebuah paragraf yang terdiri dari beberapa 
+kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat
+dengan menggunakan tag dasar html.</p>
+```
+<img src="gambar/3.png" width="500"/>
+
+4. Memformat Teks
    HTML menyediakan berbagai tag untuk memformat teks, misalnya `<b>` atau `<strong>` untuk menebalkan huruf, `<i>` atau `<em>` untuk memiringkan huruf, `<ins>` untuk garis bawah, dan '<mark>' untuk menyorot teks dengan highlight. Dengan tag-tag ini, teks pada halaman web bisa lebih jelas, menonjol, dan mudah dipahami sesuai konteks.
    
    - "Pemrograman Web" dengan tag `<b>`
    - "Teknik Informatika" dengan tag `<i>`
    - "HTML dasar" dengan tag `<mark>`
    - "Universitas Pelita Bangsa" dengan tag `<ins>`
-4. Menyisipkan Gambar
+5. Menyisipkan Gambar
    Untuk nampilin gambar di halaman web, kita pakai tag `<img>`. Tag ini tidak perlu ditutup (self-closing). Yang paling penting ada atribut src, buat nunjukin lokasi file gambarnya, sama alt, buat teks pengganti kalau gambarnya nggak kebuka. Kalau mau, bisa juga ditambahin width sama height biar ukurannya pas.
-5. Membuat Hyperlink
+6. Membuat Hyperlink
    Hyperlink di HTML dipakai buat ngarahin pengguna ke halaman lain atau ke bagian tertentu dalam sebuah halaman. Tag yang dipakai adalah `<a>`, biasanya disertai atribut href buat menentukan alamat tujuan. Dengan hyperlink, halaman web bisa saling terhubung sehingga pengguna lebih mudah berpindah dari satu informasi ke informasi lain.
 
 
